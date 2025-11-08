@@ -12,3 +12,4 @@ I## ENSEIGNEMENT SUPERIEUR ET UNIVERSITAIRE
 | Musifuni    | Bhebilia     | Gloire   |
 | Kavira    | Harapa    | help    |
 | Ramazani     | Kasige     | Jacob    |
+| Kambamba    |  Mapela  |  Stephy   |
